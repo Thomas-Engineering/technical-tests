@@ -10,5 +10,5 @@ To-date we are only covered frontend work with these tests, with more planned to
 
 We look forward to seeing what you put forward!
 
-Jonathan Rawling
+Jonathan Rawling<br>
 ***Head of Engineering***
