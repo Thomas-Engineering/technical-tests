@@ -8,7 +8,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "18/03/2020",
-                   "result": 34
+                   "trainabilityIndex": 34
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -25,7 +25,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 55
+                   "trainabilityIndex": 55
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -42,7 +42,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": 29
+                   "trainabilityIndex": 29
                },
                "behaviour": {
                    "sentOn": "09/03/2020"
@@ -59,7 +59,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 22
+                   "trainabilityIndex": 22
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -76,7 +76,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 29
+                   "trainabilityIndex": 29
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -93,7 +93,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 50
+                   "trainabilityIndex": 50
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -110,12 +110,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 20
+                   "trainabilityIndex": 20
                },
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": "D"
+                   "workingStrengths": "D"
                }
            }
        ]
@@ -129,7 +129,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "11/03/2020",
-                   "result": 39
+                   "trainabilityIndex": 39
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -206,12 +206,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 24
+                   "trainabilityIndex": 24
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "23/03/2020",
-                   "result": "C"
+                   "workingStrengths": "C"
                }
            }
        ]
@@ -225,7 +225,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": 17
+                   "trainabilityIndex": 17
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -242,12 +242,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "09/03/2020",
-                   "result": 31
+                   "trainabilityIndex": 31
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "21/03/2020",
-                   "result": "SI"
+                   "workingStrengths": "SI"
                }
            }
        ]
@@ -261,12 +261,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "09/03/2020",
-                   "result": 31
+                   "trainabilityIndex": 31
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "22/03/2020",
-                   "result": "DS"
+                   "workingStrengths": "DS"
                }
            }
        ]
@@ -295,7 +295,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": 5
+                   "trainabilityIndex": 5
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -327,12 +327,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "10/03/2020",
-                   "result": 27
+                   "trainabilityIndex": 27
                },
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": "CI"
+                   "workingStrengths": "CI"
                }
            }
        ]
@@ -346,12 +346,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 32
+                   "trainabilityIndex": 32
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "21/03/2020",
-                   "result": "D"
+                   "workingStrengths": "D"
                }
            }
        ]
@@ -365,7 +365,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 52
+                   "trainabilityIndex": 52
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -382,7 +382,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 83
+                   "trainabilityIndex": 83
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -402,7 +402,7 @@
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": "SC"
+                   "workingStrengths": "SC"
                }
            }
        ]
@@ -431,7 +431,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 58
+                   "trainabilityIndex": 58
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -451,7 +451,7 @@
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": "SI"
+                   "workingStrengths": "SI"
                }
            }
        ]
@@ -465,7 +465,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 60
+                   "trainabilityIndex": 60
                },
                "behaviour": {
                    "sentOn": "09/03/2020"
@@ -497,7 +497,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": 11
+                   "trainabilityIndex": 11
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -514,12 +514,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "18/03/2020",
-                   "result": 77
+                   "trainabilityIndex": 77
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": "CD"
+                   "workingStrengths": "CD"
                }
            }
        ]
@@ -533,12 +533,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "09/03/2020",
-                   "result": 60
+                   "trainabilityIndex": 60
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": "DS"
+                   "workingStrengths": "DS"
                }
            }
        ]
@@ -552,7 +552,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 97
+                   "trainabilityIndex": 97
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -569,7 +569,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 21
+                   "trainabilityIndex": 21
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -586,12 +586,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 16
+                   "trainabilityIndex": 16
                },
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "23/03/2020",
-                   "result": "IC"
+                   "workingStrengths": "IC"
                }
            }
        ]
@@ -605,12 +605,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 23
+                   "trainabilityIndex": 23
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "21/03/2020",
-                   "result": "CS"
+                   "workingStrengths": "CS"
                }
            }
        ]
@@ -624,12 +624,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "10/03/2020",
-                   "result": 81
+                   "trainabilityIndex": 81
                },
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "24/03/2020",
-                   "result": "IC"
+                   "workingStrengths": "IC"
                }
            }
        ]
@@ -643,12 +643,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "11/03/2020",
-                   "result": 53
+                   "trainabilityIndex": 53
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "26/03/2020",
-                   "result": "D"
+                   "workingStrengths": "D"
                }
            }
        ]
@@ -662,12 +662,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 98
+                   "trainabilityIndex": 98
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": "CI"
+                   "workingStrengths": "CI"
                }
            }
        ]
@@ -681,7 +681,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": 46
+                   "trainabilityIndex": 46
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -698,7 +698,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 38
+                   "trainabilityIndex": 38
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -715,7 +715,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": 29
+                   "trainabilityIndex": 29
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -732,7 +732,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 97
+                   "trainabilityIndex": 97
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -764,12 +764,12 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 58
+                   "trainabilityIndex": 58
                },
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": "I"
+                   "workingStrengths": "I"
                }
            }
        ]
@@ -786,7 +786,7 @@
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "26/03/2020",
-                   "result": "SD"
+                   "workingStrengths": "SD"
                }
            }
        ]
@@ -800,7 +800,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "10/03/2020",
-                   "result": 95
+                   "trainabilityIndex": 95
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -817,7 +817,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "11/03/2020",
-                   "result": 50
+                   "trainabilityIndex": 50
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -834,12 +834,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 90
+                   "trainabilityIndex": 90
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "20/03/2020",
-                   "result": "S"
+                   "workingStrengths": "S"
                }
            }
        ]
@@ -853,7 +853,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 35
+                   "trainabilityIndex": 35
                },
                "behaviour": {
                    "sentOn": "09/03/2020"
@@ -885,7 +885,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": 7
+                   "trainabilityIndex": 7
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -917,12 +917,12 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": 79
+                   "trainabilityIndex": 79
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "18/03/2020",
-                   "result": "DC"
+                   "workingStrengths": "DC"
                }
            }
        ]
@@ -936,7 +936,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 2
+                   "trainabilityIndex": 2
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -953,7 +953,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "12/03/2020",
-                   "result": 18
+                   "trainabilityIndex": 18
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -970,12 +970,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 89
+                   "trainabilityIndex": 89
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "21/03/2020",
-                   "result": "SD"
+                   "workingStrengths": "SD"
                }
            }
        ]
@@ -1007,7 +1007,7 @@
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "24/03/2020",
-                   "result": "SD"
+                   "workingStrengths": "SD"
                }
            }
        ]
@@ -1021,7 +1021,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 27
+                   "trainabilityIndex": 27
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -1038,7 +1038,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "15/03/2020",
-                   "result": 46
+                   "trainabilityIndex": 46
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -1055,12 +1055,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 59
+                   "trainabilityIndex": 59
                },
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": "IS"
+                   "workingStrengths": "IS"
                }
            }
        ]
@@ -1074,12 +1074,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 88
+                   "trainabilityIndex": 88
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": "DI"
+                   "workingStrengths": "DI"
                }
            }
        ]
@@ -1093,7 +1093,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "15/03/2020",
-                   "result": 59
+                   "trainabilityIndex": 59
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -1113,7 +1113,7 @@
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": "DC"
+                   "workingStrengths": "DC"
                }
            }
        ]
@@ -1127,12 +1127,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 51
+                   "trainabilityIndex": 51
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "22/03/2020",
-                   "result": "CI"
+                   "workingStrengths": "CI"
                }
            }
        ]
@@ -1146,7 +1146,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 57
+                   "trainabilityIndex": 57
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -1163,12 +1163,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 28
+                   "trainabilityIndex": 28
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "26/03/2020",
-                   "result": "D"
+                   "workingStrengths": "D"
                }
            }
        ]
@@ -1182,7 +1182,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "11/03/2020",
-                   "result": 24
+                   "trainabilityIndex": 24
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -1199,12 +1199,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 6
+                   "trainabilityIndex": 6
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": "SI"
+                   "workingStrengths": "SI"
                }
            }
        ]
@@ -1218,7 +1218,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": 23
+                   "trainabilityIndex": 23
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -1235,7 +1235,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": 27
+                   "trainabilityIndex": 27
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -1252,7 +1252,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "09/03/2020",
-                   "result": 41
+                   "trainabilityIndex": 41
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -1269,7 +1269,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "15/03/2020",
-                   "result": 64
+                   "trainabilityIndex": 64
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -1286,12 +1286,12 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": 52
+                   "trainabilityIndex": 52
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "15/03/2020",
-                   "result": "SD"
+                   "workingStrengths": "SD"
                }
            }
        ]
@@ -1305,12 +1305,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 96
+                   "trainabilityIndex": 96
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "24/03/2020",
-                   "result": "CI"
+                   "workingStrengths": "CI"
                }
            }
        ]
@@ -1324,12 +1324,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "09/03/2020",
-                   "result": 82
+                   "trainabilityIndex": 82
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "15/03/2020",
-                   "result": "SD"
+                   "workingStrengths": "SD"
                }
            }
        ]
@@ -1343,12 +1343,12 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 45
+                   "trainabilityIndex": 45
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": "SI"
+                   "workingStrengths": "SI"
                }
            }
        ]
@@ -1362,12 +1362,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "18/03/2020",
-                   "result": 5
+                   "trainabilityIndex": 5
                },
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": "CD"
+                   "workingStrengths": "CD"
                }
            }
        ]
@@ -1381,12 +1381,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "08/03/2020",
-                   "result": 77
+                   "trainabilityIndex": 77
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "20/03/2020",
-                   "result": "DI"
+                   "workingStrengths": "DI"
                }
            }
        ]
@@ -1403,7 +1403,7 @@
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": "CS"
+                   "workingStrengths": "CS"
                }
            }
        ]
@@ -1432,12 +1432,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "13/03/2020",
-                   "result": 59
+                   "trainabilityIndex": 59
                },
                "behaviour": {
                    "sentOn": "11/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": "D"
+                   "workingStrengths": "D"
                }
            }
        ]
@@ -1451,7 +1451,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 27
+                   "trainabilityIndex": 27
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -1468,7 +1468,7 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "18/03/2020",
-                   "result": 27
+                   "trainabilityIndex": 27
                },
                "behaviour": {
                    "sentOn": "12/03/2020"
@@ -1485,12 +1485,12 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "18/03/2020",
-                   "result": 93
+                   "trainabilityIndex": 93
                },
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "24/03/2020",
-                   "result": "CD"
+                   "workingStrengths": "CD"
                }
            }
        ]
@@ -1504,7 +1504,7 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "06/03/2020",
-                   "result": 93
+                   "trainabilityIndex": 93
                },
                "behaviour": {
                    "sentOn": "10/03/2020"
@@ -1521,7 +1521,7 @@
                "aptitude": {
                    "sentOn": "04/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": 17
+                   "trainabilityIndex": 17
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -1541,7 +1541,7 @@
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "24/03/2020",
-                   "result": "S"
+                   "workingStrengths": "S"
                }
            }
        ]
@@ -1555,12 +1555,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "10/03/2020",
-                   "result": 20
+                   "trainabilityIndex": 20
                },
                "behaviour": {
                    "sentOn": "10/03/2020",
                    "completedOn": "17/03/2020",
-                   "result": "ID"
+                   "workingStrengths": "ID"
                }
            }
        ]
@@ -1574,7 +1574,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 7
+                   "trainabilityIndex": 7
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -1621,7 +1621,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "14/03/2020",
-                   "result": 68
+                   "trainabilityIndex": 68
                },
                "behaviour": {
                    "sentOn": "09/03/2020"
@@ -1668,7 +1668,7 @@
                "aptitude": {
                    "sentOn": "05/03/2020",
                    "completedOn": "19/03/2020",
-                   "result": 40
+                   "trainabilityIndex": 40
                },
                "behaviour": {
                    "sentOn": "11/03/2020"
@@ -1685,12 +1685,12 @@
                "aptitude": {
                    "sentOn": "02/03/2020",
                    "completedOn": "07/03/2020",
-                   "result": 84
+                   "trainabilityIndex": 84
                },
                "behaviour": {
                    "sentOn": "09/03/2020",
                    "completedOn": "20/03/2020",
-                   "result": "C"
+                   "workingStrengths": "C"
                }
            }
        ]
@@ -1719,12 +1719,12 @@
                "aptitude": {
                    "sentOn": "03/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": 84
+                   "trainabilityIndex": 84
                },
                "behaviour": {
                    "sentOn": "12/03/2020",
                    "completedOn": "16/03/2020",
-                   "result": "DI"
+                   "workingStrengths": "DI"
                }
            }
        ]
