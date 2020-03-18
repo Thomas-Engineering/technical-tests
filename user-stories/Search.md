@@ -9,14 +9,10 @@
 **Given** that there are >1 candidates<br>
 **When** I start typing in the search box<br>
 **Then** there should be a slight delay after typing before the list updates with the new results
-    
-#
 
 **Given** that there are >1 candidates<br>
 **When** I type >1 characters into the search box<br>
 **Then** the list should update to contain only candidates with those letters in their first or last name
-
-#
 
 **Given** that there are >1 candidates and any assessment filters have been applied<br>
 **When** I type >1 characters into the search box<br>
