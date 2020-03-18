@@ -1,7 +1,8 @@
 # User Story
 
 **As an** Administrator<br>
-**So that** I can easily see the assessment status of a given candidate<br>**I want** a concise view of the candidate with their name and icons representing their assessment status
+**So that** I can easily see the assessment status of a given candidate<br>
+**I want** a concise view of the candidate with their name and icons representing their assessment status
 
 ## Acceptance Criteria
 
