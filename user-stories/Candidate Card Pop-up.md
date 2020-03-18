@@ -4,7 +4,7 @@
 **So that** I can quickly access more detail on candidates' assessment status<br>
 **I want** a pop-up showing the status of any sent assessments when I click or tap the candidate
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 **Given** that the assessment has been sent to a candidate<br>
 **When** I click or tap an assessment's icon<br> 
