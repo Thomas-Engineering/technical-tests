@@ -1,44 +1,63 @@
-# Thomas International: Technical Tests
+# Thomas: Engineering - Technical Tests
+## Introduction
+This repo is the home of our do-it-in-your-own-time technical tests. The intention is to allow candidates looking to join Engineering@Thomas the time and space to present their best selves in interview. We recognise that any sort of technical work undertaken in an unrealistic and pressurised environment is going to lead to poor results and not be reflective of actual performance and capabilities day-to-day.
 
-This repo is the home of our do-it-in-your-own-time technical tests. The intention is to allow any potential candidates looking to join Engineering@Thomas the time and space to present their best selves to us in interview and we recognise that any sort of technical work undertaken in an unrealistic and pressurised environment is going to lead to poor results and not be reflective of your actual performance and capabilities.
+Upon completion of the test, our team will review your code ahead of your face-to-face interview to give them time to structure relevant questions and discussion so that the interview is as productive as possible.
 
-Candidates looking to complete the technical tests in this repo are encouraged to spend no more than half a day (spread out over a week at most) - after all you're doing a test and not free work for us.
-
-When completed ahead of a scheduled face-to-face interview, you can either bring your executable solution in on your own device, or we'll work with you to get it running on one of our machines so you can demonstrate your work and then undertake a code review with one of our senior Engineers - this will form the basis of your interview.
-
-To-date we are only covered frontend work with these tests, with more planned to come for other disciplines in the future.
-
-We look forward to seeing what you put forward!
+If you have any questions or concerns, do get in touch with us here either [directly](mailto:engineering@gthomas.co.uk "mailto: Engineering") or through your contact with us and we look forward to seeing how you get on!
 
 Jonathan Rawling<br>
 ***Head of Engineering***
 
-# Technology
+## What's in the Repo
 
-At Thomas we primarily use React for frontend Engineering and for the most productive interview experience we recommend you carry out the test in that technology.
+Everything needed for either a frontend or backend implementation of a small sample project.
 
-If you feel more comfortable using a different JavaScript based technology (such as Angular), we will accommodate this choice though the experience for candidate and interviewer may not be optimal given potential mismatch in experience.
-
-# What's in the Repo
-
-- User stories
+- User stories:
     - Candidate Card Overview
     - Candidate Card Icon Pop-up
     - Basic List View
-    - Filter
     - Search
+    - Filter
     - Pagination
-- UX Design example
-- Resources
-    - Icons
+- Mocks
+    - UX Design example
     - Candidate data
+- Icons for the frontend implementation
 
-# Approach
+## Approach
 
-Implement the stories in any order you see fit, though the order listed above is at least partially prioritised with room for your own personal discretion.
+Whether you're developing at the front or the back, one set of user stories drives both implementations. Implement the stories in any order you see fit, though the order listed above is at least partially prioritised with room for your own personal discretion.
 
-We recommend spending no more than half a day (spread over the course of a week) but you are free to do as little or as much as you like - ultimately you need to feel comfortable to discuss your solution and code in an interview with one of our senior Engineers.
+We recommend spending no more than half a day (spread over the course of a week) but you are free to do as little or as much as you like - ultimately you need to feel comfortable to discuss your solution and code in an interview with several of our engineers.
 
-If you have any questions, please feel free to contact us via your contact at Thomas, recruiter, or directly through the email address associated with this GitHub team on the main page.
+Ahead of a  face-to-face interview our team would like at least a day to review your code, so please commit it to a public repo (e.g. GitHub) and let your contact know when it's available. For the deployable, you can either:
 
-Good luck!
+- deploy to the cloud on a public facing endpoint
+- bring your own device to run locally (for screen sharing, please install [Zoom](https://zoom.us/download "Zoom's download link") prior to arriving)
+
+You'll then undertake a code review with 2-3 members of the team after a short demonstration of your working solution.
+
+### Implementation
+
+For the technical test we recommend you attempt to align with the technologies chosen by the team (as that's typically what you'll be using day-to-day). We can accommodate other technologies, but for the most productive interview experience it helps if both sides have a similar level of comprehension.
+
+#### Frontend
+
+Implementing the user stories from a frontend perspective, producing a working single page application (SPA) that closely follows the mock UI design and is driven by the mock candidate data.
+
+Where appropriate and as your skills allow, attempt to use the following technologies:
+
+- React
+- JavaScript (plain-old or TypeScript)
+- CSS (SASS)
+
+#### Backend
+
+Implement the user stories from a backend perspective, producing a working API intended to be consumed by a frontend application designed to a contract defined by the mock candidate data.
+
+Where appropriate and as your skills allow, attempt to use the following technologies:
+
+- C# (.Net Core)
+- REST
+- Data storage (either the mock data file, or a storage medium of your choosing)
