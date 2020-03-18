@@ -1,9 +1,11 @@
 # User Story
 
-**As an** Administrator **I want** to be able to filter candidates by the assessments they have been sent **so that** when there are potentially 100s of candidates, I can easily refine the list down to specific assessment types
+**As an** Administrator<br> 
+**So that** I can easily limit the list to specific assessments when there are potentially hundreds of candidates<br>
+**I want** to be able to filter candidates by the assessments they have been sent
 
-# Acceptance Criteria
+## Acceptance Criteria
 
-## AC1
-
-**Given** that there are >1 candidates **when** I click or tap the appropriate filter button **then** the list view should be limited to just those candidates
+**Given** that there are candidates with sent assessments<br>
+**When** I click or tap the appropriate filter(s)<br>
+**Then** the candidate summary should be limited to just those candidates
