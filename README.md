@@ -6,7 +6,7 @@ Upon completion of the test, our team will review your code ahead of your face-t
 
 If you have any questions or concerns, do get in touch with us here either [directly](mailto:engineering@gthomas.co.uk "mailto: Engineering") or through your contact with us and we look forward to seeing how you get on!
 
-Jonathan Rawling<br>
+[Jonathan Rawling](https://www.linkedin.com/in/jrawling/)<br>
 ***Head of Engineering***
 
 ## What's in the Repo
