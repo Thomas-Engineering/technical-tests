@@ -1,13 +1,18 @@
 # User Story
 
-**As an** Administrator **I want** to be able to view the candidates who have been sent assessments in a list view **so that** I can easily see everyone we are expecting assessment results back from in a simple way
+**As an** Administrator<br>
+**So that** I can easily see everyone we are expecting results back from<br>
+**I want** to be able to view all the candidates who have been sent assessments in a single view
 
-# Acceptance Criteria
+## Acceptance Criteria
 
-## AC1
+**Given** that there is data to populate the list<br> 
+**When** I view the page<br>
+**Then** I want to see all the candidates listed in alphabetical order
 
-**Given** that there is data to populate the list **when** I view the page **then** I want to see all the candidate cards listed in alphabetica order
+# 
 
-## AC2
+**Given** that there is no data to populate the list<br>
+**When** I view the page<br>
+**Then** I want to see a message that says "No results" where the list would otherwise be
 
-**Given** that there is no data to populate the list **when** I view the page **then** I want to see a message that says "No results" where the list would otherwise be
