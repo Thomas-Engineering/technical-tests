@@ -10,8 +10,6 @@
 **When** I click or tap an assessment's icon<br> 
 **Then** I want to see a pop-up with the sent date
 
-#
-
 **Given** that the assessment has been both sent to and completed by a candidate<br>
 **When** I click or tap the candidate<br>
 **Then** I want to see a pop-up with the sent and completed dates and the assessment result
