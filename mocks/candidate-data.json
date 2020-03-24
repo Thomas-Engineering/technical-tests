@@ -1,400 +1,431 @@
 [
     {
-        "id": "d316b447-7688-4ed6-9a7b-33d7f35ef7ad",
-        "first_name": "Alfie",
-        "last_name": "McGauhy",
-        "latestBehaviourAssessment": {
+        "candidateId": "d316b447-7688-4ed6-9a7b-33d7f35ef7ad",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Alfie",
+        "lastName": "McGauhy",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "b3814446-00c7-4343-b21b-fd583f37b1e8",
-        "first_name": "Alia",
-        "last_name": "Peerman",
-        "latestBehaviourAssessment": {
+        "candidateId": "b3814446-00c7-4343-b21b-fd583f37b1e8",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Alia",
+        "lastName": "Peerman",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "12/03/2020",
             "trainabilityIndex": 55
         }
     },
     {
-        "id": "857f8d46-03d9-438e-a247-b6e98880259e",
-        "first_name": "Glennie",
-        "last_name": "Gillespie",
-        "latestBehaviourAssessment": {
+        "candidateId": "857f8d46-03d9-438e-a247-b6e98880259e",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Glennie",
+        "lastName": "Gillespie",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "12/03/2020",
             "WorkingStrengths": "SD"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "86338813-7f30-4718-888a-f8b1c2ee2e35",
-        "first_name": "Euell",
-        "last_name": "Ebsworth",
-        "latestBehaviourAssessment": {
+        "candidateId": "86338813-7f30-4718-888a-f8b1c2ee2e35",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Euell",
+        "lastName": "Ebsworth",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "07/03/2020",
             "trainabilityIndex": 74
         }
     },
     {
-        "id": "1cf690ac-69fa-41d1-8db9-b2a37ae5610e",
-        "first_name": "Barbee",
-        "last_name": "Riddles",
-        "latestBehaviourAssessment": {
+        "candidateId": "1cf690ac-69fa-41d1-8db9-b2a37ae5610e",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Barbee",
+        "lastName": "RcandidateIddles",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "12/03/2020",
             "trainabilityIndex": 60
         }
     },
     {
-        "id": "d9c34c83-c29f-4c6e-857a-dcadf6733642",
-        "first_name": "Bethany",
-        "last_name": "Huffadine",
-        "latestBehaviourAssessment": {
+        "candidateId": "d9c34c83-c29f-4c6e-857a-dcadf6733642",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Bethany",
+        "lastName": "Huffadine",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "11/03/2020",
             "WorkingStrengths": "S"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "trainabilityIndex": 38
         }
     },
     {
-        "id": "687da0ed-a80c-4ccf-a985-afaf2f2db042",
-        "first_name": "Celestyn",
-        "last_name": "Guilloux",
-        "latestBehaviourAssessment": {
+        "candidateId": "687da0ed-a80c-4ccf-a985-afaf2f2db042",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Celestyn",
+        "lastName": "Guilloux",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "09/03/2020",
             "WorkingStrengths": "D"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "2d37a253-a336-4d74-9725-06fbf4ecd784",
-        "first_name": "Niko",
-        "last_name": "Di Maria",
-        "latestBehaviourAssessment": {
+        "candidateId": "2d37a253-a336-4d74-9725-06fbf4ecd784",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Niko",
+        "lastName": "Di Maria",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "03/03/2020",
             "WorkingStrengths": "CS"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "11/03/2020",
             "trainabilityIndex": 48
         }
     },
     {
-        "id": "6b9592cf-73b1-440f-8e81-dbdaf7746b2d",
-        "first_name": "Matthiew",
-        "last_name": "Abley",
-        "latestBehaviourAssessment": {
+        "candidateId": "6b9592cf-73b1-440f-8e81-dbdaf7746b2d",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Matthiew",
+        "lastName": "Abley",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "06/03/2020",
             "trainabilityIndex": 9
         }
     },
     {
-        "id": "ebe71b8b-a687-4a83-8f11-87c13e72fca3",
-        "first_name": "Pete",
-        "last_name": "Brigg",
-        "latestBehaviourAssessment": {
+        "candidateId": "ebe71b8b-a687-4a83-8f11-87c13e72fca3",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Pete",
+        "lastName": "Brigg",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "trainabilityIndex": 94
         }
     },
     {
-        "id": "58a89efd-7300-45f4-8df2-f9dfa9f14f52",
-        "first_name": "Griffith",
-        "last_name": "Bingley",
-        "latestBehaviourAssessment": {
+        "candidateId": "58a89efd-7300-45f4-8df2-f9dfa9f14f52",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Griffith",
+        "lastName": "Bingley",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "0077fd0f-4224-437a-b482-ef8afab72bda",
-        "first_name": "Janette",
-        "last_name": "MacQueen",
-        "latestBehaviourAssessment": {
+        "candidateId": "0077fd0f-4224-437a-b482-ef8afab72bda",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Janette",
+        "lastName": "MacQueen",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "cd09f1c7-87e2-4024-b3ee-10b886dd6495",
-        "first_name": "Ulrich",
-        "last_name": "Geockle",
-        "latestBehaviourAssessment": {
+        "candidateId": "cd09f1c7-87e2-4024-b3ee-10b886dd6495",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Ulrich",
+        "lastName": "Geockle",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "WorkingStrengths": "C"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "12/03/2020",
             "trainabilityIndex": 13
         }
     },
     {
-        "id": "e5da1498-b69d-4885-8ed7-e1c97945e036",
-        "first_name": "Eolande",
-        "last_name": "Iacovo",
-        "latestBehaviourAssessment": {
+        "candidateId": "e5da1498-b69d-4885-8ed7-e1c97945e036",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Eolande",
+        "lastName": "Iacovo",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "08/03/2020",
             "WorkingStrengths": "SD"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "trainabilityIndex": 58
         }
     },
     {
-        "id": "5038ee91-415d-4474-ac0f-63aeab3c8226",
-        "first_name": "Nichol",
-        "last_name": "Tenbrug",
-        "latestBehaviourAssessment": {
+        "candidateId": "5038ee91-415d-4474-ac0f-63aeab3c8226",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Nichol",
+        "lastName": "Tenbrug",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "04/03/2020",
             "WorkingStrengths": "SC"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "08/03/2020",
             "trainabilityIndex": 88
         }
     },
     {
-        "id": "ba21ede2-3db3-44ec-96f0-3cdbc52577f2",
-        "first_name": "Gene",
-        "last_name": "Donwell",
-        "latestBehaviourAssessment": {
+        "candidateId": "ba21ede2-3db3-44ec-96f0-3cdbc52577f2",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Gene",
+        "lastName": "Donwell",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "02/03/2020",
             "WorkingStrengths": "ID"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "trainabilityIndex": 70
         }
     },
     {
-        "id": "b2c3d46d-f2fa-488d-abad-90a181226bc9",
-        "first_name": "Dotti",
-        "last_name": "Patroni",
-        "latestBehaviourAssessment": {
+        "candidateId": "b2c3d46d-f2fa-488d-abad-90a181226bc9",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Dotti",
+        "lastName": "Patroni",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "09/03/2020",
             "WorkingStrengths": "SD"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "17c7a840-88f5-46e1-81dc-1912425c4074",
-        "first_name": "Arlena",
-        "last_name": "Govey",
-        "latestBehaviourAssessment": {
+        "candidateId": "17c7a840-88f5-46e1-81dc-1912425c4074",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Arlena",
+        "lastName": "Govey",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "trainabilityIndex": 72
         }
     },
     {
-        "id": "2ff7ff75-da1c-4157-b359-7b4cf35c0f00",
-        "first_name": "Caralie",
-        "last_name": "Siggens",
-        "latestBehaviourAssessment": {
+        "candidateId": "2ff7ff75-da1c-4157-b359-7b4cf35c0f00",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Caralie",
+        "lastName": "Siggens",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "03/03/2020",
             "WorkingStrengths": "C"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "fc2ec09c-a4ca-4c6a-b22c-9208815732dd",
-        "first_name": "Luelle",
-        "last_name": "Moseby",
-        "latestBehaviourAssessment": {
+        "candidateId": "fc2ec09c-a4ca-4c6a-b22c-9208815732dd",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Luelle",
+        "lastName": "Moseby",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "09/03/2020",
             "WorkingStrengths": "CD"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "02/03/2020",
             "trainabilityIndex": 18
         }
     },
     {
-        "id": "7b06a1ed-60e2-46f1-a6b8-17a0e5afcba1",
-        "first_name": "Nola",
-        "last_name": "Ellington",
-        "latestBehaviourAssessment": {
+        "candidateId": "7b06a1ed-60e2-46f1-a6b8-17a0e5afcba1",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Nola",
+        "lastName": "Ellington",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "c59919e3-05d8-418c-b830-8ecf8507a129",
-        "first_name": "Zandra",
-        "last_name": "Mackin",
-        "latestBehaviourAssessment": {
+        "candidateId": "c59919e3-05d8-418c-b830-8ecf8507a129",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Zandra",
+        "lastName": "Mackin",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "16ff1ba5-af1c-4e88-b948-bf38760b3f8f",
-        "first_name": "Kim",
-        "last_name": "Coltherd",
-        "latestBehaviourAssessment": {
+        "candidateId": "16ff1ba5-af1c-4e88-b948-bf38760b3f8f",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Kim",
+        "lastName": "Coltherd",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "a394d85d-ef0d-401e-b20e-d1c42abdc4b6",
-        "first_name": "Jacquelin",
-        "last_name": "Aldrick",
-        "latestBehaviourAssessment": {
+        "candidateId": "a394d85d-ef0d-401e-b20e-d1c42abdc4b6",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Jacquelin",
+        "lastName": "Aldrick",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "685e507c-bb54-44bc-b6bc-2e60d33f0a92",
-        "first_name": "Fina",
-        "last_name": "Cove",
-        "latestBehaviourAssessment": {
+        "candidateId": "685e507c-bb54-44bc-b6bc-2e60d33f0a92",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Fina",
+        "lastName": "Cove",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "11/03/2020",
             "trainabilityIndex": 44
         }
     },
     {
-        "id": "02c3216b-454b-4f51-b4f7-252d16b0e2b2",
-        "first_name": "Giacomo",
-        "last_name": "Easeman",
-        "latestBehaviourAssessment": {
+        "candidateId": "02c3216b-454b-4f51-b4f7-252d16b0e2b2",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Giacomo",
+        "lastName": "Easeman",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "5c7c8ca6-9d7d-4c52-a9d1-6b4681342ed9",
-        "first_name": "Herb",
-        "last_name": "Winborn",
-        "latestBehaviourAssessment": {
+        "candidateId": "5c7c8ca6-9d7d-4c52-a9d1-6b4681342ed9",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Herb",
+        "lastName": "Winborn",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "11/03/2020",
             "trainabilityIndex": 71
         }
     },
     {
-        "id": "52778a1c-2abd-4865-9cc2-1603a5c30360",
-        "first_name": "Jennica",
-        "last_name": "Dungay",
-        "latestBehaviourAssessment": {
+        "candidateId": "52778a1c-2abd-4865-9cc2-1603a5c30360",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Jennica",
+        "lastName": "Dungay",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "06/03/2020",
             "WorkingStrengths": "CS"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "da6292ac-c6e7-49d0-baf8-44502613f591",
-        "first_name": "Marchelle",
-        "last_name": "Biddlestone",
-        "latestBehaviourAssessment": {
+        "candidateId": "da6292ac-c6e7-49d0-baf8-44502613f591",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Marchelle",
+        "lastName": "BcandidateIddlestone",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "8d9f8e4a-41e5-4d9c-9727-f61aa6262b63",
-        "first_name": "Christyna",
-        "last_name": "Brolly",
-        "latestBehaviourAssessment": {
+        "candidateId": "8d9f8e4a-41e5-4d9c-9727-f61aa6262b63",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Christyna",
+        "lastName": "Brolly",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "10/03/2020",
             "WorkingStrengths": "D"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020"
         }
     },
     {
-        "id": "3fbe863c-e502-4b3e-bcf1-a66a95d14e59",
-        "first_name": "Amy",
-        "last_name": "Fransemai",
-        "latestBehaviourAssessment": {
+        "candidateId": "3fbe863c-e502-4b3e-bcf1-a66a95d14e59",
+        "roleId": "9bfbf90f-c5f1-4e3b-a3ac-c23b6ef08dad",
+        "firstName": "Amy",
+        "lastName": "Fransemai",
+        "behaviourAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "10/03/2020",
             "WorkingStrengths": "S"
         },
-        "latestAptitudeAssessment": {
+        "aptitudeAssessment": {
             "sentOn": "02/03/2020",
             "completedOn": "05/03/2020",
             "trainabilityIndex": 66
