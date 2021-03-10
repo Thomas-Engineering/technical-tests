@@ -60,6 +60,12 @@ Where appropriate and as your skills allow, attempt to use the following technol
 - REST
 - Data storage (either the mock data file, or a storage medium of your choosing)
 
-### Advice for applicants for senior positions and above
+### Advice to candidates applying for senior positions
 
 If you feel that producing a simple API will not allow you the space to adequately demonstrate the breadth of your experience, we welcome discussion around supporting artifacts  (e.g. lightweight architectural designs) that incorporate wider considerations and technologies that we've highlighted in our role spec. 
+
+The hiring team will be especially interested in how your solution aligns with the architectural and design patterns of:
+
+- event-driven
+- eventual consistency
+- resilience and scale
